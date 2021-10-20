@@ -1,1 +1,1 @@
-# deploy-practice
+# Instructor Demo
